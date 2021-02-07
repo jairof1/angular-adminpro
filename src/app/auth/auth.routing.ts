@@ -6,8 +6,7 @@ import { RegistreComponent } from './registre/registre.component';
 
 
 const routes: Routes = [
-  
-    {path:'login',component:LoginComponent},
+  {path:'login',component:LoginComponent},
     {path:'register',component:RegistreComponent},
 ];
 
